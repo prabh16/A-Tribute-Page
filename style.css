@@ -1,0 +1,46 @@
+html{
+    background-color:bisque;
+}
+
+h1{
+    text-align: center;
+    font-size: 2.5rem;
+    margin-right: 15%;
+    margin-left: 12%;
+    text-shadow: 5px 5px 10px black;
+}
+
+.image{
+    position:static;
+    left: 50px;
+    top: 50px;
+    margin-left: 37%;
+    border-radius: 10px;
+    
+}
+
+.poet{
+    margin-left: 20%;
+    margin-right: 20%;
+    font-family: "Open Sans", sans-serif;
+    background-color: beige;
+    
+}
+
+h2{
+    text-align: center;
+    margin-right: 4%;
+}
+
+.footer{
+    text-align: center;
+    background-color:black;
+    color: white;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+}
